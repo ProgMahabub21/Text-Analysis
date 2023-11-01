@@ -1,7 +1,7 @@
 *This is a strong Text Analysis tool based on Natural Language Processing with the power of AI*
 -
 ---
-![OpenAI is an artificial intelligence research organization that focuses on developing advanced AI technologies and models. It's known for creating state-of-the-art language models like GPT-3 and GPT-3.5, which have a wide range of applications in natural language understanding and generation.](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fopenai-logo-vector-svg-pdf-ai-eps-cdr-free-download-10016.html&psig=AOvVaw2fE6ey6fnZ4ci-vdC-q9uM&ust=1698933045128000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPj89_b4ooIDFQAAAAAdAAAAABAE)
+![OpenAI is an artificial intelligence research organization that focuses on developing advanced AI technologies and models. It's known for creating state-of-the-art language models like GPT-3 and GPT-3.5, which have a wide range of applications in natural language understanding and generation.](/Text-Analysis/images/openai5002.jpg)
 
 ## OpenAI helps in this tool in following ways
 1. **Text Understanding**: OpenAI uses its GPT-3 model to understand and interpret textual data from various sources, including social 
