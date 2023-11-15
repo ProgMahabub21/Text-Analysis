@@ -1,7 +1,7 @@
 
 # OpenAI Chatbot Script
 
-This script allows you to interact with OpenAI's GPT-3.5 Turbo model to generate responses to user messages. You can provide an initial user message, and the script will use the OpenAI API to generate a response.
+This script allows you to interact with OpenAI's GPT-3.5 Turbo model to generate responses to user messages. You can provide an initial user message; the script will use the OpenAI API to generate a response. Go to the repository <a href="https://github.com/sheikhmahmudulhasanshium/BCT_Trust_Factor_Evaluation_PsudoCode/tree/master">link</a> to understand the basic work process of the BCT-IATI framework in detail.
 
 ## Prerequisites
 
